@@ -32,7 +32,7 @@ We compared four machine learning models using `GridSearchCV` for hyperparameter
 
 | Model | Test Accuracy | Best CV Score |
 | :--- | :--- | :--- |
-| **Decision Tree** | 83.3% | **88.9%** |
+| **Decision Tree** | 83.3% | **87.7%** |
 | **K-Nearest Neighbors** | 83.3% | 84.8% |
 | **Support Vector Machine** | 83.3% | 84.8% |
 | **Logistic Regression** | 83.3% | 84.6% |
@@ -51,7 +51,7 @@ We compared four machine learning models using `GridSearchCV` for hyperparameter
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/vatsun07-web/Data-Science-Capstone-Project.git]
     ```
 2.  Install dependencies:
     ```bash
@@ -63,4 +63,4 @@ We compared four machine learning models using `GridSearchCV` for hyperparameter
     ```
 
 ---
-*Author: [Your Name]* *Data Source: SpaceX Public API & Wikipedia*
+*Author: [Seiha Vat]* *Data Source: SpaceX Public API & Wikipedia*
